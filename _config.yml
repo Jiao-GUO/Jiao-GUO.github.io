@@ -25,8 +25,8 @@ author:
   name             : "Jiao GUO"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Sociology"
-  location         : "Hong Kong"
-  employer         : "The University of Hong Kong"
+  location         : "The University of Hong Kong"
+  employer         : # URL
   uri              : # URL
   email            : "jiaoguo23@connect.hku.hk" 
 
